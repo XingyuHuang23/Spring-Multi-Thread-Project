@@ -5,4 +5,4 @@ An experimental exploratory Spring Boot frame development combined with programm
 
 Model level used Hibernate frame, Mysql as the Database, implementing separation of read and write using distributed **MySql Innodb Cluster**, resulting in a huge increase in utilization and thorough-put compared to baseline
 
-This is a very challenging and experimental expansion project in terms of architecture and public components encapsulation. The whole project lasted almost 2 years in my previous company **@Haiyi Security Technology**, I really learned a lot about architecture and system design from it, **Shoutout to my mentor and teammates! Hope you enjoy!**
+This is a very challenging and experimental expansion project in terms of **architecture and public components encapsulation**. The whole project lasted almost 2 years in my previous company **@Haiyi Security Technology**, I really learned a lot about architecture and system design from it, **Shoutout to my mentor and teammates! Hope you enjoy!**
