@@ -4,3 +4,5 @@ OA project with **customizable multi-threading pool** based on the Spring framew
 An experimental exploratory Spring Boot frame development combined with programming in the **Domain Driven Design (DDD) and Restful**. 
 
 Model level used Hibernate frame, Mysql as the Database, implementing separation of read and write using distributed **MySql Innodb Cluster**, resulting in a huge increase in utilization and thorough-put compared to baseline
+
+This is a very challenging and experimental expansion project in terms of architecture and public components encapsulation. I have learned a lot about architecture and system design from it. Hope you enjoy!
