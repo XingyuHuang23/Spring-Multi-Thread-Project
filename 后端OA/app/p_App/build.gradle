@@ -1,0 +1,41 @@
+apply from: '../../frame/f_frame/testFixtures.gradle'
+
+sourceSets {
+    main {
+        java {
+            srcDirs = [
+                    'src/main/java',
+                    'project/init/java',
+            ]
+        }
+        resources {
+            srcDirs = ['src/main/resources']
+        }
+    }
+    test {
+        java {
+            srcDirs = [
+                    'src/test/java'
+            ]
+        }
+    }
+}
+
+
+dependencies {
+
+    compile project(":frame:f_frame");
+    compile project(":p_AppComm");
+
+    compile project(":p_Usermgr");
+    compile project(":p_Inventory");
+
+    compile group: 'mysql', name: 'mysql-connector-java', version: '8.0.11'
+
+}
+
+bootJar {
+    manifest {
+        attributes "Premain-Class": "io.xjar.agent.hibernate.XJarHibernateAgent"
+    }
+}

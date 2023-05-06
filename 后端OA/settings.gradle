@@ -1,0 +1,18 @@
+rootProject.name = 'oa'
+
+
+include 'frame:f_frame'
+findProject(':frame:f_frame')?.name = 'f_frame'
+
+include 'app:p_App'
+findProject(':app:p_App')?.name = 'p_App'
+
+include(':p_AppComm')
+project(':p_AppComm').projectDir = new File(settingsDir, 'app/p_AppComm')
+
+
+include(':p_Usermgr')
+project(':p_Usermgr').projectDir = new File(settingsDir, 'app/p_Usermgr')
+
+include ':p_Inventory'
+project(':p_Inventory').projectDir = new File(settingsDir, 'app/p_Inventory')

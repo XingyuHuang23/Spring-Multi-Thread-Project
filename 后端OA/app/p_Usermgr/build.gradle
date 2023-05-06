@@ -1,0 +1,4 @@
+
+dependencies {
+    compile project(":frame:f_frame");
+}

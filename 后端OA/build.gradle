@@ -1,0 +1,54 @@
+buildscript {
+    ext {
+        springBootVersion = '2.0.4.RELEASE'
+    }
+    repositories {
+        maven { url "http://reg.haiyisec.com:8081/repository/maven-public/" }
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+allprojects {
+
+    repositories {
+        maven { url "http://reg.haiyisec.com:8081/repository/maven-public/" }
+    }
+
+    apply plugin: 'java'
+    apply plugin: 'idea'
+    apply plugin: 'org.springframework.boot'
+    apply plugin: 'io.spring.dependency-management'
+
+    sourceCompatibility = 1.11
+//    sourceCompatibility = 11
+
+
+    ext {
+        springCloudVersion = 'Finchley.SR1'
+    }
+
+    dependencyManagement {
+        imports {
+            mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+        }
+    }
+
+    bootJar {
+        manifest {
+            attributes 'Spring-Boot-Classes': 'BOOT-INF/classes/'
+            attributes 'Spring-Boot-Lib': 'BOOT-INF/lib/'
+            attributes 'Spring-Boot-Version': '2.0.4.RELEASE'
+        }
+    }
+
+    jar.enabled = true;
+
+    dependencies {
+        testCompile project(path: ':frame:f_frame', configuration: 'testFixturesUsageCompile')
+        testCompile project(path: ':app:p_App', configuration: 'testFixturesUsageCompile')
+        testCompile group: 'mysql', name: 'mysql-connector-java', version: '8.0.16'
+    }
+}
+dependencies {
+}

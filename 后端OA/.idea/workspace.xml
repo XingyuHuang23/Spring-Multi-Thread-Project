@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e902ae47-1aa7-4dc2-a96d-0df4190d8a9c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/app/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/build/" />
+    <ignored path="$PROJECT_DIR$/app/out/" />
+    <ignored path="$PROJECT_DIR$/frame/.gradle/" />
+    <ignored path="$PROJECT_DIR$/frame/build/" />
+    <ignored path="$PROJECT_DIR$/frame/out/" />
+    <ignored path="$PROJECT_DIR$/app/p_AppComm/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/p_AppComm/build/" />
+    <ignored path="$PROJECT_DIR$/app/p_Inventory/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/p_Inventory/build/" />
+    <ignored path="$PROJECT_DIR$/app/p_Usermgr/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/p_Usermgr/build/" />
+    <ignored path="$PROJECT_DIR$/app/p_App/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/p_App/build/" />
+    <ignored path="$PROJECT_DIR$/frame/f_frame/.gradle/" />
+    <ignored path="$PROJECT_DIR$/frame/f_frame/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="oa" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/AppImportStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyImport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7015">
+              <caret line="334" column="73" selection-start-line="334" selection-start-column="73" selection-end-line="334" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/ImportMonitorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3986">
+              <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/CommodityFailService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+              <folding>
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#1664#1665#0" expanded="true" />
+                <element signature="e#1731#1732#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/ImportService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-529">
+              <caret line="185" column="20" lean-forward="true" selection-start-line="185" selection-start-column="20" selection-end-line="185" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/controller/InventoryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1541">
+              <caret line="184" column="54" lean-forward="true" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/repository/AttributeInfoItemRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/dddservice/InventoryDDDService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_AppComm/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/model/po/goods/ImportMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>failNumRealTime</find>
+      <find>$$$$$$$$$$$</find>
+      <find>create</find>
+      <find>userWorking</find>
+      <find>crea</find>
+      <find>user_model.get(importMonitor.getUserId()).get(importMonitor.getModel())</find>
+      <find>termin</find>
+      <find>finish</find>
+      <find>checkpool</find>
+      <find>checkDataPool.remove</find>
+      <find>importMonitorService.setCheckPool</find>
+      <find>checkDataPool</find>
+      <find>verifyCancelFlag</find>
+      <find>HyImportAdaption</find>
+      <find>terminate</find>
+      <find>failCollection</find>
+      <find>XXX</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>H:\后端OA\app\p_Inventory\src\main\java\com\haiyisec\oa\inventorymanager\domain\check</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/service/importservice/TestDataProvider.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/eating/model/Cat.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/eating/EatingTest.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/service/importservice/BaseImportFileTest.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/service/importservice/MonopolizeSuiteListener.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/service/importservice/MonopolizeTest.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/Strategy.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/ErrorCode.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyFailHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyPreDateHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HySuccessHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/Format.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IHyFailHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IHyPreDateHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyAdaption.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyDataAdaption.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IhySuccessHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IhyFailHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/HyExcelDataVerifyHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/UserImportStrategy.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/CommodityAdaption.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/ImportFormatCheck.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/ImportLimitCheck.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/ImportStrategy.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IhyDataAdaption.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IhyPreDateHandler.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/FileConfig.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/CommodityExcelDataVerifyHandler2.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/controller/InventoryController.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/OutStoreService.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/service/importservice/ImportTest.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/repository/ImportMonitorRepository.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/AppImportStrategy.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/ImportConfig.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/AppCommonErrorConfig.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/model/po/goods/ImportMonitor.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/ImportMonitorService.java" />
+        <option value="$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyImport.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="haiyisec" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="haiyisec" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="oa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="haiyisec" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="oa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inventorymanager" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="haiyisec" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="oa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inventorymanager" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="haiyisec" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="oa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inventorymanager" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="domain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="p_Inventory" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="haiyisec" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="oa" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inventorymanager" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="domain" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="check" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="oa" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="后端OA" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\后端OA\app\p_Inventory\src\main\java\com\haiyisec\oa\inventorymanager\domain\service\test\test_strategy" />
+      <recent name="H:\后端OA\app\p_Inventory\src\main\java\com\haiyisec\oa\inventorymanager\domain\service" />
+      <recent name="H:\后端OA\app\p_Inventory\src\test\java\com\haiyisec\modules\inventorymanager\domain\service\importservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p_App_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haiyisec.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportTest.csvImport" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="p_Inventory_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice" />
+      <option name="MAIN_CLASS_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.ImportTest" />
+      <option name="METHOD_NAME" value="csvImport" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportTest.csvImportVerifyCoding" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="p_Inventory_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice" />
+      <option name="MAIN_CLASS_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.ImportTest" />
+      <option name="METHOD_NAME" value="csvImportVerifyCoding" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportTest.csvImportVerifyTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="p_Inventory_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice" />
+      <option name="MAIN_CLASS_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.ImportTest" />
+      <option name="METHOD_NAME" value="csvImportVerifyTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonopolizeTest.finishTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="p_Inventory_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice" />
+      <option name="MAIN_CLASS_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.MonopolizeTest" />
+      <option name="METHOD_NAME" value="finishTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonopolizeTest.monopolizeTest0" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="p_Inventory_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice" />
+      <option name="MAIN_CLASS_NAME" value="com.haiyisec.modules.inventorymanager.domain.service.importservice.MonopolizeTest" />
+      <option name="METHOD_NAME" value="monopolizeTest0" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="TestNG.ImportTest.csvImportVerifyTitle" />
+      <item itemvalue="TestNG.ImportTest.csvImportVerifyCoding" />
+      <item itemvalue="TestNG.ImportTest.csvImport" />
+      <item itemvalue="TestNG.MonopolizeTest.monopolizeTest0" />
+      <item itemvalue="TestNG.MonopolizeTest.finishTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MonopolizeTest.finishTest" />
+        <item itemvalue="TestNG.MonopolizeTest.monopolizeTest0" />
+        <item itemvalue="TestNG.ImportTest.csvImport" />
+        <item itemvalue="TestNG.ImportTest.csvImportVerifyCoding" />
+        <item itemvalue="TestNG.ImportTest.csvImportVerifyTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e902ae47-1aa7-4dc2-a96d-0df4190d8a9c" name="Default" comment="" />
+      <created>1616134991410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616134991410</updated>
+      <workItem from="1616134994561" duration="6535000" />
+      <workItem from="1616379409937" duration="1797000" />
+      <workItem from="1616550753806" duration="10615000" />
+      <workItem from="1616637031081" duration="19191000" />
+      <workItem from="1616668731149" duration="3895000" />
+      <workItem from="1616723620935" duration="10643000" />
+      <workItem from="1616983940914" duration="483000" />
+      <workItem from="1616984552178" duration="18175000" />
+      <workItem from="1617068581565" duration="11426000" />
+      <workItem from="1617158362894" duration="13570000" />
+      <workItem from="1678897312469" duration="2491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 32m 24s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 47m 40s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 49m 28s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 53m 47s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 55m 31s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 57m 57s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 10h 59m 37s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 11h 06m 01s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 11h 06m 30s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MonopolizeTest_finishTest - 2021.03.26 at 11h 15m 03s.xml">
+      <configuration name="MonopolizeTest.finishTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98821000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.68552256" visible="true" weight="0.3544776" />
+      <window_info id="Structure" order="1" sideWeight="0.31447747" side_tool="true" weight="0.2690779" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.08342362" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.1779661" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="15" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Gradle" order="6" visible="true" weight="0.18123667" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyImport.java</url>
+          <line>312</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyImportAdaption.java" />
+    <entry file="jar://E:/Alibaba_Dragonwell_8.5.5-Experimental_Windows_x64/jdk8u275-b1/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/StrategyType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/UserImportStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/ImportLimitCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/AttributeInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/AttributeItemInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/CommodityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/excelservice/CommodityExcelDataVerifyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/excelservice/CommodityExcelDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/CommodityExcelDataVerifyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/testService.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.afterturn/easypoi-base/4.2.0/1ffec981211f565f37eedf62c0b33ef8af78f6be/easypoi-base-4.2.0-sources.jar!/cn/afterturn/easypoi/excel/ExcelImportUtil.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.afterturn/easypoi-base/4.2.0/1ffec981211f565f37eedf62c0b33ef8af78f6be/easypoi-base-4.2.0-sources.jar!/cn/afterturn/easypoi/csv/imports/CsvImportService.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.afterturn/easypoi-base/4.2.0/1ffec981211f565f37eedf62c0b33ef8af78f6be/easypoi-base-4.2.0-sources.jar!/cn/afterturn/easypoi/csv/CsvImportUtil.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.afterturn/easypoi-base/4.2.0/1ffec981211f565f37eedf62c0b33ef8af78f6be/easypoi-base-4.2.0-sources.jar!/cn/afterturn/easypoi/excel/imports/ExcelImportService.java" />
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/CommodityExcelDataHandler2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/CommodityExcelDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IHySuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="71" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IHyPreDateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/ImportStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/OperationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/ImportFormat.java" />
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/CommodityExcelDataVerifyHandler2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/HyExcelDataVerifyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/excelservice/HyExcelDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/StatisticService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/OutStoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/InStoreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/service/importservice/ImportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/test/java/com/haiyisec/modules/inventorymanager/domain/dddservice/InventoryDDDServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-299">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/ThreadPoolInitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/repository/ImportMonitorRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IHyDataAdaption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/IHyFailHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/CommodityAdaption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="56" column="32" lean-forward="true" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/ImportFormatCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#csvCheck#0;class#ImportFormatCheck#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/ImportConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/FileConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/AppCommonErrorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/test_strategy/AppImportStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/test/HyImport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7015">
+          <caret line="334" column="73" selection-start-line="334" selection-start-column="73" selection-end-line="334" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/model/po/goods/ImportMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="50" column="47" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_AppComm/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/repository/AttributeInfoItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/ImportMonitorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3986">
+          <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/CommodityFailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/service/importservice/ImportService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="185" column="20" lean-forward="true" selection-start-line="185" selection-start-column="20" selection-end-line="185" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/domain/dddservice/InventoryDDDService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/p_Inventory/src/main/java/com/haiyisec/oa/inventorymanager/controller/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="184" column="54" lean-forward="true" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android-Gradle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>后端OA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

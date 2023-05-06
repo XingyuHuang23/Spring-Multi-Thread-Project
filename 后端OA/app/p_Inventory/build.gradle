@@ -1,0 +1,14 @@
+dependencies {
+
+    compile project(":frame:f_frame");
+
+    compile project(":p_Usermgr");      //@todo: 在使用了框架的 FrameApiTestUtil 后去掉
+    compile project(":p_AppComm");
+
+    compile group: 'org.jooq', name: 'joor-java-8', version: '0.9.13'
+    // https://mvnrepository.com/artifact/cn.afterturn/easypoi-base
+    compile group: 'cn.afterturn', name: 'easypoi-base', version: '4.2.0'
+    compile group: 'cn.afterturn', name: 'easypoi-annotation', version: '4.2.0'
+    compile group: 'cn.afterturn', name: 'easypoi-web', version: '4.2.0'
+
+}

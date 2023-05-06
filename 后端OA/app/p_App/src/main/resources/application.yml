@@ -1,0 +1,22 @@
+app:
+  target: common    #其值有 common,HW
+  license:
+    checkDevState: false                   #开发阶段是否检查License
+    reserveDaysExpiredEarlyWarning: 30    #过期前多少天进行告警
+  onOff:
+    showBeanValidationMsg: true
+  config:
+    map: {
+#      logoutUrl: '${logoutUrl}'
+    }
+  security:
+    loginType: jsonLogin      #其值有 customLogin,formLogin,jsonLogin
+    urlFilterMap: {
+    userLoginInspection: [/Sysmngr/**,/API/**]
+    }
+    loginPasswordLevel: level2
+
+#job:
+#    name: "${job_name}"
+#    frequency: "${job_frequency}"   #0 0 1 ? * * 1 * * * * ?
+#    frequency: "0 */1 * * * ?"  #每分钟刷新一次

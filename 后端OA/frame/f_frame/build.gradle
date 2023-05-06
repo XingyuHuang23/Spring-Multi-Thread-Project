@@ -1,0 +1,6 @@
+apply from: 'testFixtures.gradle'
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '**/*.jar')
+    testFixturesCompile fileTree(dir: 'libs_test', include: '**/*.jar')
+}
